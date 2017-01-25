@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+  <streamingInfos>
+  
+  
+        <item> 
+            <title>[COLOR red] Digi Sport 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=Digi Sport 1</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Digi Sport 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/1282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Digi Sport 2</link> 
+        </item>		
+        <item> 
+            <title>[COLOR red] Digi Sport 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] EUROSPORT 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link> 
+        </item>		
+        <item> 
+            <title>[COLOR red] EUROSPORT 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+        </item>
