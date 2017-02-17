@@ -1,0 +1,2409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+  <streamingInfos>
+ 
+          <item> 
+            <title>UK-Sky-Sport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport1</link> 
+        </item> 
+          <item> 
+            <title>UK-SkySports1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports1 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2971.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky-Sport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport2</link> 
+        </item> 
+          <item> 
+            <title>UK-SkySports2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports2 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2972.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky-Sport3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/420.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport3</link> 
+        </item> 
+          <item> 
+            <title>UK-SkySports3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports3 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2973.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky-Sport4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport4</link> 
+        </item> 
+          <item> 
+            <title>UK-SkySports4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports4 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2974.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky-Sport5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/418.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport5</link> 
+        </item> 
+          <item> 
+            <title>UK-SkySports5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports5 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2975.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-sky_sport_F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2014.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-sky_sport_F1</link> 
+        </item> 
+          <item> 
+            <title>UK-Premier Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK-Premier Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2153.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2016.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Racing</link> 
+        </item> 
+          <item> 
+            <title>UK-Box_Nation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Box_Nation</link> 
+        </item> 
+          <item> 
+            <title>UK:Setanta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Setanta</link> 
+        </item> 
+          <item> 
+            <title>UK-BTsport-europe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1468.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BTsport-europe</link> 
+        </item> 
+          <item> 
+            <title>UK-BT_Sport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1308.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT_Sport1</link> 
+        </item> 
+          <item> 
+            <title>UK-BT_Sport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1309.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT_Sport2</link> 
+        </item> 
+          <item> 
+            <title>UK-BT-Espn</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Espn</link> 
+        </item> 
+          <item> 
+            <title>UK-Liverpool_FC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2209.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Liverpool_FC</link> 
+        </item> 
+          <item> 
+            <title>UK-AtThe-Races</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-AtThe-Races</link> 
+        </item> 
+          <item> 
+            <title>UK-Motors_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2216.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Motors_TV</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Sports-News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Sports-News</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2223.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-True_M1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2203.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-True_M1</link> 
+        </item> 
+          <item> 
+            <title>UK-True_M2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-True_M2</link> 
+        </item> 
+          <item> 
+            <title>UK-MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/379.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-MUTV</link> 
+        </item> 
+          <item> 
+            <title>UK-Pick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2225.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Pick</link> 
+        </item> 
+          <item> 
+            <title>UK-GOLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2220.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-GOLD</link> 
+        </item> 
+          <item> 
+            <title>UK-Dave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Dave</link> 
+        </item> 
+          <item> 
+            <title>UK-Yesterday</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2210.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Yesterday</link> 
+        </item> 
+          <item> 
+            <title>UK-Watch</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Watch</link> 
+        </item> 
+          <item> 
+            <title>UK-BBC1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC1</link> 
+        </item> 
+          <item> 
+            <title>UK-BBC2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC2</link> 
+        </item> 
+          <item> 
+            <title>UK-BBC3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1920.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC3_HD</link> 
+        </item> 
+          <item> 
+            <title>UK-BBC4_CBEEBIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC4_CBEEBIES</link> 
+        </item> 
+          <item> 
+            <title>UK-SKY-NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/417.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SKY-NEWS</link> 
+        </item> 
+          <item> 
+            <title>UK_RT_24(En)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1538.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_RT_24(En)</link> 
+        </item> 
+          <item> 
+            <title>UK_EuroNews(En)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1539.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_EuroNews(En)</link> 
+        </item> 
+          <item> 
+            <title>UK-RT_Document</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1911.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-RT_Document</link> 
+        </item> 
+          <item> 
+            <title>UK-CHANNEL4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1922.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CHANNEL4</link> 
+        </item> 
+          <item> 
+            <title>UK-CHANNEL5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CHANNEL5</link> 
+        </item> 
+          <item> 
+            <title>UK-Select_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2218.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Select_HD</link> 
+        </item> 
+          <item> 
+            <title>UK-SCI-FI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SCI-FI</link> 
+        </item> 
+          <item> 
+            <title>UK-Premiere_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Premiere_HD</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-Sky_Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Greats</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky-LivingIt</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1610.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-LivingIt</link> 
+        </item> 
+          <item> 
+            <title>UK-Crimes &amp; Inv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Crimes &amp; Inv</link> 
+        </item> 
+          <item> 
+            <title>UK-Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Thriller</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Premiere</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Chelsea</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Chelsea</link> 
+        </item> 
+          <item> 
+            <title>UK-SKY-Syfy+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SKY-Syfy+1</link> 
+        </item> 
+          <item> 
+            <title>UK-RTE1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/427.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-RTE1</link> 
+        </item> 
+          <item> 
+            <title>UK-RTE2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-RTE2</link> 
+        </item> 
+          <item> 
+            <title>UK-Atlantic+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Atlantic+1</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Monsters</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Monsters</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Arts</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-Sky_Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Arts</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Family</link> 
+        </item> 
+          <item> 
+            <title>UK-Drama_Rom</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Drama_Rom</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky-Mv_Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Mv_Disney</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Comedy</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Action</link> 
+        </item> 
+          <item> 
+            <title>UK-COMEDY_CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2151.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-COMEDY_CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>UK-Inves.&amp;Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2093.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Inves.&amp;Crime</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky2</link> 
+        </item> 
+          <item> 
+            <title>UK-sky_one</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-sky_one</link> 
+        </item> 
+          <item> 
+            <title>UK-Quest</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2033.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Quest</link> 
+        </item> 
+          <item> 
+            <title>UK-E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2032.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-E!</link> 
+        </item> 
+          <item> 
+            <title>UK-ABC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ABC HD</link> 
+        </item> 
+          <item> 
+            <title>UK-Disc_History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disc_History</link> 
+        </item> 
+          <item> 
+            <title>UK-Discovery-Sc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-Sc</link> 
+        </item> 
+          <item> 
+            <title>UK-Discovery_Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2017.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery_Turbo</link> 
+        </item> 
+          <item> 
+            <title>UK-Discovery_CH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2018.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery_CH</link> 
+        </item> 
+          <item> 
+            <title>UK-Animal_Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2015.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Animal_Planet</link> 
+        </item> 
+          <item> 
+            <title>UK-Nat-Geo+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nat-Geo+1</link> 
+        </item> 
+          <item> 
+            <title>UK-NAT-GEO-WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-NAT-GEO-WILD</link> 
+        </item> 
+          <item> 
+            <title>UK-sky_famliy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-sky_famliy</link> 
+        </item> 
+          <item> 
+            <title>UK-FOX-News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-FOX-News</link> 
+        </item> 
+          <item> 
+            <title>UK-horror_channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-horror_channel</link> 
+        </item> 
+          <item> 
+            <title>UK-H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-H2</link> 
+        </item> 
+          <item> 
+            <title>UK-CBS_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2228.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS_Action</link> 
+        </item> 
+          <item> 
+            <title>UK-CBS_Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS_Reality</link> 
+        </item> 
+          <item> 
+            <title>UK-CBS_Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS_Drama</link> 
+        </item> 
+          <item> 
+            <title>UK-TG4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2150.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-TG4</link> 
+        </item> 
+          <item> 
+            <title>UK-Nick_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2100.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nick_Junior</link> 
+        </item> 
+          <item> 
+            <title>UK-Nick Toons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nick Toons</link> 
+        </item> 
+          <item> 
+            <title>UK-Baby_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Baby_TV</link> 
+        </item> 
+          <item> 
+            <title>UK-BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2031.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BOOMERANG</link> 
+        </item> 
+          <item> 
+            <title>UK-Disney_XD+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney_XD+1</link> 
+        </item> 
+          <item> 
+            <title>UK-Disney_Junior+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney_Junior+1</link> 
+        </item> 
+          <item> 
+            <title>UK-Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney_Channel</link> 
+        </item> 
+          <item> 
+            <title>UK:NICKLEODON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NICKLEODON</link> 
+        </item> 
+          <item> 
+            <title>UK:Carton Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Carton Network</link> 
+        </item> 
+          <item> 
+            <title>UK-3E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-3E</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_fox</link> 
+        </item> 
+          <item> 
+            <title>UK-Nicktoons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nicktoons</link> 
+        </item> 
+          <item> 
+            <title>UK-Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Food Network</link> 
+        </item> 
+          <item> 
+            <title>UK-Capital_TV(music)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Capital_TV(music)</link> 
+        </item> 
+          <item> 
+            <title>UK-5USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-5USA</link> 
+        </item> 
+          <item> 
+            <title>UK-ITV1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV1_HD</link> 
+        </item> 
+          <item> 
+            <title>UK-ITV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV2</link> 
+        </item> 
+          <item> 
+            <title>UK-ITV3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV3_HD</link> 
+        </item> 
+          <item> 
+            <title>UK-ITV4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV4</link> 
+        </item> 
+          <item> 
+            <title>UK-Itv_Be</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2224.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Itv_Be</link> 
+        </item> 
+          <item> 
+            <title>UK-More4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-More4</link> 
+        </item> 
+          <item> 
+            <title>UK-VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2222.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-VH1</link> 
+        </item> 
+          <item> 
+            <title>UK-3ABN_KIDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3334.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-3ABN_KIDS</link> 
+        </item> 
+          <item> 
+            <title>USA-CNN_Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2806.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-CNN_Live</link> 
+        </item> 
+          <item> 
+            <title>US-CNN News-intl.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-CNN News-intl.</link> 
+        </item> 
+          <item> 
+            <title>USA-ABC_News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-ABC_News</link> 
+        </item> 
+          <item> 
+            <title>USA-BBC-News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2071.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-BBC-News</link> 
+        </item> 
+          <item> 
+            <title>USA-Bloomberg</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1304.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Bloomberg</link> 
+        </item> 
+          <item> 
+            <title>USA-RT_News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1910.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-RT_News</link> 
+        </item> 
+          <item> 
+            <title>USA_Al-jazeera</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1536.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_Al-jazeera</link> 
+        </item> 
+          <item> 
+            <title>cspan1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2734.ts&amp;streamtype=TSDOWNLOADER&amp;name=cspan1</link> 
+        </item> 
+          <item> 
+            <title>cspan2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2735.ts&amp;streamtype=TSDOWNLOADER&amp;name=cspan2</link> 
+        </item> 
+          <item> 
+            <title>cspan3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2736.ts&amp;streamtype=TSDOWNLOADER&amp;name=cspan3</link> 
+        </item> 
+          <item> 
+            <title>US-USA Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2731.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-USA Network</link> 
+        </item> 
+          <item> 
+            <title>US-TBS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2729.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-TBS HD</link> 
+        </item> 
+          <item> 
+            <title>US-Bravo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Bravo HD</link> 
+        </item> 
+          <item> 
+            <title>USA-AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2113.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-AMC HD</link> 
+        </item> 
+          <item> 
+            <title>Usa- A&amp;E hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=Usa- A&amp;E hd</link> 
+        </item> 
+          <item> 
+            <title>US-Boston City TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2737.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Boston City TV</link> 
+        </item> 
+          <item> 
+            <title>US-AMG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2733.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-AMG</link> 
+        </item> 
+          <item> 
+            <title>USA-Family E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2094.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Family E</link> 
+        </item> 
+          <item> 
+            <title>USA-HBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-HBO</link> 
+        </item> 
+          <item> 
+            <title>USA-Hit TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2115.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Hit TV</link> 
+        </item> 
+          <item> 
+            <title>US-Family FE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1627.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Family FE</link> 
+        </item> 
+          <item> 
+            <title>US-Hallmark HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Hallmark HD</link> 
+        </item> 
+          <item> 
+            <title>US-WWE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2730.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-WWE</link> 
+        </item> 
+          <item> 
+            <title>USA--NBC_golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA--NBC_golf</link> 
+        </item> 
+          <item> 
+            <title>USA--AFL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1240.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA--AFL</link> 
+        </item> 
+          <item> 
+            <title>USA:NFL_now</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2078.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:NFL_now</link> 
+        </item> 
+          <item> 
+            <title>USA-NBCSN sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2116.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-NBCSN sport</link> 
+        </item> 
+          <item> 
+            <title>US-Sports Net</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US-Sports&amp;streamtype=TSDOWNLOADER&amp;name=US-Sports Net</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1625.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA-PAC-12 WS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2101.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-PAC-12 WS</link> 
+        </item> 
+          <item> 
+            <title>USA:London live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2084.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:London live</link> 
+        </item> 
+          <item> 
+            <title>USA:FOOD network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2087.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:FOOD network</link> 
+        </item> 
+          <item> 
+            <title>USA-NASA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2097.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-NASA_HD</link> 
+        </item> 
+          <item> 
+            <title>USA-QVC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2114.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-QVC HD</link> 
+        </item> 
+          <item> 
+            <title>USA-London_Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2096.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-London_Live</link> 
+        </item> 
+          <item> 
+            <title>USA-Spike</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2099.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Spike</link> 
+        </item> 
+          <item> 
+            <title>USA-Florida_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2102.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Florida_Channel</link> 
+        </item> 
+          <item> 
+            <title>USA-California_University</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2103.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-California_University</link> 
+        </item> 
+          <item> 
+            <title>Ca-TVA Montreal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2395.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ca-TVA Montreal</link> 
+        </item> 
+          <item> 
+            <title>CA-evasion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=CA-evasion</link> 
+        </item> 
+          <item> 
+            <title>Ca-RDI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2397.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ca-RDI</link> 
+        </item> 
+          <item> 
+            <title>US-FXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-FXX</link> 
+        </item> 
+          <item> 
+            <title>CA-TOMATO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2384.ts&amp;streamtype=TSDOWNLOADER&amp;name=CA-TOMATO TV</link> 
+        </item> 
+          <item> 
+            <title>Ca-SN quebec Canal9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2390.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ca-SN quebec Canal9</link> 
+        </item> 
+          <item> 
+            <title>CA-Assemble Nationale</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=CA-Assemble Nationale</link> 
+        </item> 
+          <item> 
+            <title>Ca-AN Du Quebec</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2391.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ca-AN Du Quebec</link> 
+        </item> 
+          <item> 
+            <title>CA-MYJAVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2385.ts&amp;streamtype=TSDOWNLOADER&amp;name=CA-MYJAVA</link> 
+        </item> 
+          <item> 
+            <title>Ca-Radio-Shebrooke</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ca-Radio-Shebrooke</link> 
+        </item> 
+          <item> 
+            <title>US-MTV Hit</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-MTV Hit</link> 
+        </item> 
+          <item> 
+            <title>US-Fox SPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2638.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Fox SPORT1</link> 
+        </item> 
+          <item> 
+            <title>US-TSN Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-TSN Sport 1</link> 
+        </item> 
+          <item> 
+            <title>US-TSN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2642.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-TSN 2</link> 
+        </item> 
+          <item> 
+            <title>US-TSN 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2641.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-TSN 3</link> 
+        </item> 
+          <item> 
+            <title>US-TSN 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2640.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-TSN 4</link> 
+        </item> 
+          <item> 
+            <title>US-TSN 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2639.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-TSN 5</link> 
+        </item> 
+          <item> 
+            <title>=======   UK:ENTERTAINMENT   =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/2615.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:ENTERTAINMENT   =======</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6986.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC One NI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC One NI HD</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC RB 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13487.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC RB 1</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8363.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6987.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC2</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13712.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: CHANNEL 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6995.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 4</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel 4 +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13558.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6998.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel 5 +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13557.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel 5Star</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9560.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5Star</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7365.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky One</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky One +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12365.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky One +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7373.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Two</link> 
+        </item> 
+          <item> 
+            <title>UK: Pick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Pick</link> 
+        </item> 
+          <item> 
+            <title>UK: Pick +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Pick +1</link> 
+        </item> 
+          <item> 
+            <title>UK: My5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13556.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: My5</link> 
+        </item> 
+          <item> 
+            <title>UK: DAVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7072.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DAVE</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY LIVING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7024.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY LIVING +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12369.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING +1</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC3</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8364.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC4 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV Encore</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13532.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV Encore</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6990.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV +1</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8357.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8356.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6991.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV2 +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2 +1</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8354.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6992.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8355.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6993.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV4 +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13530.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4 +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7033.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>UK: Comedy Central +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13591.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Comedy Central Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central Extra</link> 
+        </item> 
+          <item> 
+            <title>UK: Comedy Central Xtra +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13590.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central Xtra +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Sci-Fi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7049.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sci-Fi</link> 
+        </item> 
+          <item> 
+            <title>UK: ALIBI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ALIBI</link> 
+        </item> 
+          <item> 
+            <title>UK: Alibi +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12364.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Alibi +1</link> 
+        </item> 
+          <item> 
+            <title>UK: E4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7068.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4</link> 
+        </item> 
+          <item> 
+            <title>UK: S4C</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13514.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: S4C</link> 
+        </item> 
+          <item> 
+            <title>UK: MORE4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7062.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MORE4</link> 
+        </item> 
+          <item> 
+            <title>UK: More4 +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13583.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: More4 +1</link> 
+        </item> 
+          <item> 
+            <title>UK: CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7076.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY</link> 
+        </item> 
+          <item> 
+            <title>UK: CBS REALITY +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7075.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY +1</link> 
+        </item> 
+          <item> 
+            <title>UK: CBS Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7078.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Action</link> 
+        </item> 
+          <item> 
+            <title>UK: CBS DRAMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7077.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS DRAMA</link> 
+        </item> 
+          <item> 
+            <title>UK: Sony Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13512.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Channel</link> 
+        </item> 
+          <item> 
+            <title>UK: Sony Channel +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13511.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Channel +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Flava</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13587.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Flava</link> 
+        </item> 
+          <item> 
+            <title>UK: E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7069.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E!</link> 
+        </item> 
+          <item> 
+            <title>UK: E! +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13549.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E! +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Quest</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7053.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Quest</link> 
+        </item> 
+          <item> 
+            <title>UK: QUEST +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13518.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: QUEST +1</link> 
+        </item> 
+          <item> 
+            <title>UK: SHOWCASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SHOWCASE</link> 
+        </item> 
+          <item> 
+            <title>UK: 3e</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7372.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 3e</link> 
+        </item> 
+          <item> 
+            <title>UK: UTV IE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6996.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UTV IE</link> 
+        </item> 
+          <item> 
+            <title>UK: TV3 IE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6997.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3 IE</link> 
+        </item> 
+          <item> 
+            <title>UK: TV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7001.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3</link> 
+        </item> 
+          <item> 
+            <title>UK: TV3 +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV3 +1</link> 
+        </item> 
+          <item> 
+            <title>UK: TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7003.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC</link> 
+        </item> 
+          <item> 
+            <title>UK: TLC +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13501.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC +1</link> 
+        </item> 
+          <item> 
+            <title>UK: TLC +2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC +2</link> 
+        </item> 
+          <item> 
+            <title>UK: Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Drama</link> 
+        </item> 
+          <item> 
+            <title>UK: TG4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7004.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TG4</link> 
+        </item> 
+          <item> 
+            <title>UK: RTE One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE One</link> 
+        </item> 
+          <item> 
+            <title>UK: RTE Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7051.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE Two</link> 
+        </item> 
+          <item> 
+            <title>UK: ITVBE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6994.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITVBE</link> 
+        </item> 
+          <item> 
+            <title>UK: ITVBe +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13529.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITVBe +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Community Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13554.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Community Channel</link> 
+        </item> 
+          <item> 
+            <title>UK: AMC From BT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13567.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: AMC From BT</link> 
+        </item> 
+          <item> 
+            <title>UK: ID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7063.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ID</link> 
+        </item> 
+          <item> 
+            <title>UK: ID +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13533.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ID +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Horror Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13585.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horror Channel</link> 
+        </item> 
+          <item> 
+            <title>UK: Horror Channel +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13586.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horror Channel +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Fox</link> 
+        </item> 
+          <item> 
+            <title>UK: Challenge</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13560.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Challenge</link> 
+        </item> 
+          <item> 
+            <title>UK: Challenge +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13559.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Challenge +1</link> 
+        </item> 
+          <item> 
+            <title>UK: 5USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7071.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5USA</link> 
+        </item> 
+          <item> 
+            <title>UK: 5USA +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13569.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5USA +1</link> 
+        </item> 
+          <item> 
+            <title>UK: 5STAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5STAR</link> 
+        </item> 
+          <item> 
+            <title>UK: 5STAR +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13568.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5STAR +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Lifetime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Lifetime</link> 
+        </item> 
+          <item> 
+            <title>UK: Vintage TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9552.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Vintage TV</link> 
+        </item> 
+          <item> 
+            <title>UK: FineLiving</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9388.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FineLiving</link> 
+        </item> 
+          <item> 
+            <title>UK: Gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12371.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Gold</link> 
+        </item> 
+          <item> 
+            <title>UK: GOLD +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOLD +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Eden</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12460.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eden</link> 
+        </item> 
+          <item> 
+            <title>UK: Eden +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eden +1</link> 
+        </item> 
+          <item> 
+            <title>UK: True Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13574.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Drama</link> 
+        </item> 
+          <item> 
+            <title>UK: True Crime +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Crime +1</link> 
+        </item> 
+          <item> 
+            <title>UK: tru TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: tru TV</link> 
+        </item> 
+          <item> 
+            <title>UK: tru TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13499.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: tru TV 1</link> 
+        </item> 
+          <item> 
+            <title>UK: Dmax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dmax</link> 
+        </item> 
+          <item> 
+            <title>UK: Dmax +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dmax +1</link> 
+        </item> 
+          <item> 
+            <title>UK: De Ja Vu</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/11779.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: De Ja Vu</link> 
+        </item> 
+          <item> 
+            <title>UK: W +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13494.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: W +1</link> 
+        </item> 
+          <item> 
+            <title>UK: W</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13495.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: W</link> 
+        </item> 
+          <item> 
+            <title>UK: Universal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13572.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Universal</link> 
+        </item> 
+          <item> 
+            <title>UK: Universal +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13571.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Universal +1</link> 
+        </item> 
+          <item> 
+            <title>UK: True Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13573.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Entertainment</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9551.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News</link> 
+        </item> 
+          <item> 
+            <title>UK: Real Lives 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Real Lives 1</link> 
+        </item> 
+          <item> 
+            <title>UK: Real Lives</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Real Lives</link> 
+        </item> 
+          <item> 
+            <title>UK: Tiny Pop</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13576.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Tiny Pop</link> 
+        </item> 
+          <item> 
+            <title>UK: Tiny Pop +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13575.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Tiny Pop +1</link> 
+        </item> 
+          <item> 
+            <title>UK: The Vault</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13577.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: The Vault</link> 
+        </item> 
+          <item> 
+            <title>UK: Spike</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Spike</link> 
+        </item> 
+          <item> 
+            <title>UK: RT. News Now</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13515.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RT. News Now</link> 
+        </item> 
+          <item> 
+            <title>UK: PBS America</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: PBS America</link> 
+        </item> 
+          <item> 
+            <title>UK: London Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/2927.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: London Live</link> 
+        </item> 
+          <item> 
+            <title>UK: Made In Cardiff</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14026.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Made In Cardiff</link> 
+        </item> 
+          <item> 
+            <title>=======   UK:LIFESTYLE &amp; CULTURE   =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8250.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:LIFESTYLE &amp; CULTURE   =======</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery Shed</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6977.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Shed</link> 
+        </item> 
+          <item> 
+            <title>UK: Travel Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7002.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Travel Channel</link> 
+        </item> 
+          <item> 
+            <title>UK: Travel Channel +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/10162.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Travel Channel +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Really</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7052.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Really</link> 
+        </item> 
+          <item> 
+            <title>UK: Home &amp; Health</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7369.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home &amp; Health</link> 
+        </item> 
+          <item> 
+            <title>UK: Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8392.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Food Network</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY ARTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7046.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ARTS</link> 
+        </item> 
+          <item> 
+            <title>UK: Good Food</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Good Food</link> 
+        </item> 
+          <item> 
+            <title>UK: Good Food +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13541.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Good Food +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Food Network +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13547.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Food Network +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Home&amp;Health</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13536.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home&amp;Health</link> 
+        </item> 
+          <item> 
+            <title>UK: Home</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13537.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home</link> 
+        </item> 
+          <item> 
+            <title>UK: Home +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13535.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home +1</link> 
+        </item> 
+          <item> 
+            <title>=======   UK:MOVIES   =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8252.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:MOVIES   =======</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Cinema Premiere HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7008.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premiere HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Cinema Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7007.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premiere</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Cinema Premier +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9557.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premier +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Movies Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7012.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Cinema Action &amp; Adventure</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7013.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Action &amp; Adventure</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Cinema Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7009.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Family</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Cinema Drama &amp; Romance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7011.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Drama &amp; Romance</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Movies Sci-Fi Horror HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7015.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi Horror HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Movies ScFi-Horror</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6975.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies ScFi-Horror</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Film 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7030.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Film 4 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Film4 +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13588.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film4 +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Cinema Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7014.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Select</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Cinema Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7017.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Disney</link> 
+        </item> 
+          <item> 
+            <title>UK: Sony Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13510.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Movies</link> 
+        </item> 
+          <item> 
+            <title>UK: Sony Movies +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Movies +1</link> 
+        </item> 
+          <item> 
+            <title>UK: TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7006.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TCM</link> 
+        </item> 
+          <item> 
+            <title>UK: Starz TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13578.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Starz TV</link> 
+        </item> 
+          <item> 
+            <title>UK: Star Life OK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star Life OK</link> 
+        </item> 
+          <item> 
+            <title>UK: Star Jalsha</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star Jalsha</link> 
+        </item> 
+          <item> 
+            <title>UK: Star GOLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Star GOLD</link> 
+        </item> 
+          <item> 
+            <title>UK: TCM +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TCM +1</link> 
+        </item> 
+          <item> 
+            <title>UK: FILM 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7066.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FILM 4</link> 
+        </item> 
+          <item> 
+            <title>UK: True Movies 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6976.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 1</link> 
+        </item> 
+          <item> 
+            <title>UK: True Movies 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7375.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 2</link> 
+        </item> 
+          <item> 
+            <title>UK: Movies4Men</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Movies4Men</link> 
+        </item> 
+          <item> 
+            <title>UK: Movies 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13525.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Movies 24</link> 
+        </item> 
+          <item> 
+            <title>UK: Movies4men +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13526.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Movies4men +1</link> 
+        </item> 
+          <item> 
+            <title>UK: MOVIES CRIME &amp; THRILLER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7019.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES CRIME &amp; THRILLER</link> 
+        </item> 
+          <item> 
+            <title>UK: MOVIES DISNEY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7021.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES DISNEY</link> 
+        </item> 
+          <item> 
+            <title>UK: MOVIES COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7022.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES COMEDY</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Cinema Action &amp; Adventure</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7023.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Action &amp; Adventure</link> 
+        </item> 
+          <item> 
+            <title>UK: Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7005.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Syfy</link> 
+        </item> 
+          <item> 
+            <title>UK: Syfy +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9556.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Syfy +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7045.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Atlantic +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9558.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic +1</link> 
+        </item> 
+          <item> 
+            <title>=======   UK:SPORT   =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8244.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:SPORT   =======</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV Box Off HD 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/16085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV Box Off HD 1</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV Box Off HD bckup</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/16086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV Box Off HD bckup</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS NEWS HQ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6981.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS NEWS HQ HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports Mix HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports Mix HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13713.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8352.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7035.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8351.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7036.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8350.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7037.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9549.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7038.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8349.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7039.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Sports F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7987.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS  F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7067.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS  F1</link> 
+        </item> 
+          <item> 
+            <title>UK: Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7031.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 1</link> 
+        </item> 
+          <item> 
+            <title>UK: Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7374.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>UK: Premier Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/10163.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Motors TV</link> 
+        </item> 
+          <item> 
+            <title>UK: Horse &amp; Country</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13534.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horse &amp; Country</link> 
+        </item> 
+          <item> 
+            <title>UK: AT THE RACES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6984.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: AT THE RACES</link> 
+        </item> 
+          <item> 
+            <title>UK: Racing UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7376.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing UK</link> 
+        </item> 
+          <item> 
+            <title>UK: Bike</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13599.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bike</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport Mosaic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9149.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Mosaic HD</link> 
+        </item> 
+          <item> 
+            <title>UK: BT SPORTS MOSAIC 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS MOSAIC 2</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7041.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7042.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8358.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport ESPN</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8361.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport 2</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport Europe/3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8360.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Europe/3 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: BT SPORTS EUROPE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS EUROPE</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sports Extra 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports Extra 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7370.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport Extra 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13565.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 2</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport Extra 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13564.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 3</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport Extra 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13563.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 4</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport Extra 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13562.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 5</link> 
+        </item> 
+          <item> 
+            <title>UK: BT Sport Extra 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13561.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sport Extra 6</link> 
+        </item> 
+          <item> 
+            <title>UK: BET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9148.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BET</link> 
+        </item> 
+          <item> 
+            <title>UK: Setanta HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Setanta HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Setanta Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Setanta Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Setanta Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7040.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: BOX NATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOX NATION</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky BoxOff (PPV Events Only)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky BoxOff (PPV Events&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BoxOff (PPV Events Only)</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7979.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7043.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV</link> 
+        </item> 
+          <item> 
+            <title>UK: Chelsea TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7044.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8359.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV</link> 
+        </item> 
+          <item> 
+            <title>UK: Liverpool LFCTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9553.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Liverpool LFCTV</link> 
+        </item> 
+          <item> 
+            <title>UK: Rangers TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12482.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Rangers TV</link> 
+        </item> 
+          <item> 
+            <title>UK: Everton FC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12484.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Everton FC TV</link> 
+        </item> 
+          <item> 
+            <title>UK: Celtic FC TV (Live for Matches )</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Celtic FC TV (Live for Matches )</link> 
+        </item> 
+          <item> 
+            <title>Sky Net Sports 1 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Net Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Net Sports 1 UK</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14081.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Net Sports 2 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Net Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Net Sports 2 UK</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14082.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Net Sports 3 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Net Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Net Sports 3 UK</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14083.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Net Sports 4 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Net Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Net Sports 4 UK</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14084.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Net Sports 5 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Net Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Net Sports 5 UK</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14085.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>=======   UK:NEWS   =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8246.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:NEWS   =======</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7371.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC News</link> 
+        </item> 
+          <item> 
+            <title>=======   UK:DOCUMENTARIES   =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8247.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:DOCUMENTARIES   =======</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7026.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Channel</link> 
+        </item> 
+          <item> 
+            <title>Uk: Discovery Channel +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/10161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk: Discovery Channel +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6979.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Turbo</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7028.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery Science +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13551.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Science +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet</link> 
+        </item> 
+          <item> 
+            <title>UK: Animal Planet +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13566.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Nat Geo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7367.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo</link> 
+        </item> 
+          <item> 
+            <title>UK: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7025.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery History HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7029.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery History +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13552.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History +1</link> 
+        </item> 
+          <item> 
+            <title>UK: YESTERDAY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/6999.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: YESTERDAY</link> 
+        </item> 
+          <item> 
+            <title>UK: Yesterday +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12375.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Yesterday +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Investigation Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Investigation Discovery</link> 
+        </item> 
+          <item> 
+            <title>UK: CRIME &amp; THRILLER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7073.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CRIME &amp; THRILLER</link> 
+        </item> 
+          <item> 
+            <title>UK: Crime &amp; Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7074.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Crime &amp; Investigation</link> 
+        </item> 
+          <item> 
+            <title>UK: Crime Investigation +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13553.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Crime Investigation +1</link> 
+        </item> 
+          <item> 
+            <title>UK: H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13540.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: H2</link> 
+        </item> 
+          <item> 
+            <title>UK: History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13539.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: History</link> 
+        </item> 
+          <item> 
+            <title>UK: History +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13538.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: History +1</link> 
+        </item> 
+          <item> 
+            <title>UK: GEO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13544.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GEO TV</link> 
+        </item> 
+          <item> 
+            <title>=======   UK:CHILDREN’S   =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8251.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:CHILDREN’S   =======</link> 
+        </item> 
+          <item> 
+            <title>UK: Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/11778.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Baby TV</link> 
+        </item> 
+          <item> 
+            <title>UK: Kix</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/11469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Kix</link> 
+        </item> 
+          <item> 
+            <title>UK: Kix +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13584.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Kix +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7034.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cartoon Network</link> 
+        </item> 
+          <item> 
+            <title>UK: NickJr Too</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NickJr Too</link> 
+        </item> 
+          <item> 
+            <title>UK: Nick Jr  +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7544.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Jr  +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Nicktoons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7055.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nicktoons</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7032.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney Channel +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9555.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>UK: Nickelodeon +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon +1</link> 
+        </item> 
+          <item> 
+            <title>UK: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7070.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>UK: DISNEY XD +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12370.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY XD +1</link> 
+        </item> 
+          <item> 
+            <title>UK: CBEEBIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBEEBIES</link> 
+        </item> 
+          <item> 
+            <title>UK: CBBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBBC</link> 
+        </item> 
+          <item> 
+            <title>UK: Boomerang +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13597.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boomerang +1</link> 
+        </item> 
+          <item> 
+            <title>UK: Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13598.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boomerang</link> 
+        </item> 
+          <item> 
+            <title>=======   UK:MUSIC  =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8253.ts&amp;streamtype=TSDOWNLOADER&amp;name========   UK:MUSIC  =======</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13582.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Music</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV 90s</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13485.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV 90s</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7061.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV +1</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Base</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7060.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Base</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Hits</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7057.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Dance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7058.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Dance</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Rocks</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7056.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Rocks</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7059.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Classic</link> 
+        </item> 
+          <item> 
+            <title>UK: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/7000.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1</link> 
+        </item> 
+          <item> 
+            <title>UK: VIVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VIVA</link> 
+        </item> 
+          <item> 
+            <title>UK: Scuzz</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13579.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Scuzz</link> 
+        </item> 
+          <item> 
+            <title>UK: 4Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13570.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 4Music</link> 
+        </item> 
+          <item> 
+            <title>UK: POP +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13580.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: POP +1</link> 
+        </item> 
+          <item> 
+            <title>UK: POP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13581.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: POP</link> 
+        </item> 
+          <item> 
+            <title>=======   USA   =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/2892.ts&amp;streamtype=TSDOWNLOADER&amp;name========   USA   =======</link> 
+        </item> 
+          <item> 
+            <title>CA: TSC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14969.ts&amp;streamtype=TSDOWNLOADER&amp;name=CA: TSC HD</link> 
+        </item> 
+          <item> 
+            <title>USA: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9315.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>USA: ABC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/2931.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ABC News</link> 
+        </item> 
+          <item> 
+            <title>USA: ABC Spark HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15243.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ABC Spark HD</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9516.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN SPORTS</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN SPECTRUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/10166.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN SPECTRUM</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN Prime Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/10167.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN Prime Atlantic</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN MOVIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9488.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN MOVIE</link> 
+        </item> 
+          <item> 
+            <title>USA: AFN SPORTS 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9517.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AFN SPORTS 2</link> 
+        </item> 
+          <item> 
+            <title>USA: ABC W HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15244.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ABC W HD</link> 
+        </item> 
+          <item> 
+            <title>USA: 360 North</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/3863.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: 360 North</link> 
+        </item> 
+          <item> 
+            <title>USA: Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15250.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Animal Planet</link> 
+        </item> 
+          <item> 
+            <title>USA: Astro SUPERSPORT 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9520.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Astro SUPERSPORT 3</link> 
+        </item> 
+          <item> 
+            <title>USA: ASD TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/3861.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ASD TV</link> 
+        </item> 
+          <item> 
+            <title>USA: AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8415.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: AMC HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Astro SUPERSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9518.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Astro SUPERSPORT 1</link> 
+        </item> 
+          <item> 
+            <title>USA: Church Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9536.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Church Channel</link> 
+        </item> 
+          <item> 
+            <title>USA: Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9546.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>USA: DTX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9547.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: DTX</link> 
+        </item> 
+          <item> 
+            <title>USA: FOX Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8681.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: FOX Sport 1</link> 
+        </item> 
+          <item> 
+            <title>USA: Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15249.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>USA: Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15248.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Discovery Channel</link> 
+        </item> 
+          <item> 
+            <title>USA: Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9337.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Food Network</link> 
+        </item> 
+          <item> 
+            <title>USA: Family CHRGD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15246.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Family CHRGD</link> 
+        </item> 
+          <item> 
+            <title>USA: Bloomberg</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9510.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Bloomberg</link> 
+        </item> 
+          <item> 
+            <title>USA: CBS Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9340.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS Action</link> 
+        </item> 
+          <item> 
+            <title>USA: Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14079.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Eurosport 1</link> 
+        </item> 
+          <item> 
+            <title>USA: Family Junior HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15247.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Family Junior HD</link> 
+        </item> 
+          <item> 
+            <title>USA: CBS DRAMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9339.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS DRAMA</link> 
+        </item> 
+          <item> 
+            <title>USA: CNN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8692.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CNN HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Bravo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8691.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Bravo</link> 
+        </item> 
+          <item> 
+            <title>USA: ESPN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13230.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ESPN 2</link> 
+        </item> 
+          <item> 
+            <title>USA: Channel 11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/3860.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Channel 11</link> 
+        </item> 
+          <item> 
+            <title>USA: Country Music Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/3859.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Country Music Channel</link> 
+        </item> 
+          <item> 
+            <title>USA: DTX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9475.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: DTX HD</link> 
+        </item> 
+          <item> 
+            <title>USA: CBS News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9508.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS News HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Fight Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8308.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fight Sport</link> 
+        </item> 
+          <item> 
+            <title>USA: E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8417.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: E!</link> 
+        </item> 
+          <item> 
+            <title>USA: ESPN U HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13229.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: ESPN U HD</link> 
+        </item> 
+          <item> 
+            <title>USA: CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9338.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBS Reality</link> 
+        </item> 
+          <item> 
+            <title>USA: C-SPAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9318.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: C-SPAN</link> 
+        </item> 
+          <item> 
+            <title>USA: CSPAN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9319.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CSPAN 2</link> 
+        </item> 
+          <item> 
+            <title>USA: C-SPAN 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9320.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: C-SPAN 3</link> 
+        </item> 
+          <item> 
+            <title>USA: E! Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9321.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: E! Network HD</link> 
+        </item> 
+          <item> 
+            <title>USA: BeIN Sports USA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: BeIN Sports USA HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13227.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: Astro SUPERSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9519.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Astro SUPERSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>USA: Fox Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9391.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox Sport 2</link> 
+        </item> 
+          <item> 
+            <title>USA: NBA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8309.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBA TV</link> 
+        </item> 
+          <item> 
+            <title>USA: HBO FAMILY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8414.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO FAMILY</link> 
+        </item> 
+          <item> 
+            <title>USA: HBO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8411.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO HD</link> 
+        </item> 
+          <item> 
+            <title>USA: HBO ZONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8412.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO ZONE</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8393.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Fox Sports 506 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox Sports 506 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9528.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: LIFE TIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8687.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: LIFE TIME</link> 
+        </item> 
+          <item> 
+            <title>USA: HBO Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9831.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: HBO Comedy</link> 
+        </item> 
+          <item> 
+            <title>USA: Fox Soccer Plus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15240.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox Soccer Plus</link> 
+        </item> 
+          <item> 
+            <title>USA: Fox Sports Florida</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox Sports Florida</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15241.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: History HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15245.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: History HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Mello TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9502.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Mello TV</link> 
+        </item> 
+          <item> 
+            <title>USA: Mute TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9487.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Mute TV</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC Sports Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: NBC Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC Sports Network HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9523.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: MLB Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15239.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: MLB Network HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Fox 43</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/10174.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Fox 43</link> 
+        </item> 
+          <item> 
+            <title>USA: CBN News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/3872.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: CBN News</link> 
+        </item> 
+          <item> 
+            <title>USA: Starz  Edge</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/10171.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Starz  Edge</link> 
+        </item> 
+          <item> 
+            <title>USA: TLC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9480.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TLC HD</link> 
+        </item> 
+          <item> 
+            <title>USA: NHL Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12479.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NHL Network</link> 
+        </item> 
+          <item> 
+            <title>USA: RT Documentary</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9497.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: RT Documentary</link> 
+        </item> 
+          <item> 
+            <title>USA: RT America HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9498.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: RT America HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Poker Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9326.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Poker Central</link> 
+        </item> 
+          <item> 
+            <title>USA: Nick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9333.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Nick</link> 
+        </item> 
+          <item> 
+            <title>USA: NBCSN XTRA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14181.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBCSN XTRA 2</link> 
+        </item> 
+          <item> 
+            <title>USA: NBCSN Golf HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9526.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBCSN Golf HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Nasa TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9499.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Nasa TV HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Spike HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13179.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Spike HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Sportsnet West HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: Sportsnet West HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13232.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: NFL Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8693.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NFL Network HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Sporstnet 360</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14036.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Sporstnet 360</link> 
+        </item> 
+          <item> 
+            <title>USA: Sporstnet East HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14035.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Sporstnet East HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Sporstnet Ontario HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14034.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Sporstnet Ontario HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Sporstnet Pacific HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14033.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Sporstnet Pacific HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Sportnet  One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14037.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Sportnet  One HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Sportsnet World</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,USA: Sports&amp;streamtype=TSDOWNLOADER&amp;name=USA: Sportsnet World</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14032.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA: TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13180.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TNT HD</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC XTRA 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14063.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC XTRA 5</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC XTRA 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14062.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC XTRA 4</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Washington HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/10143.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Washington HD</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC Mountain 1080P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14067.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC Mountain 1080P</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC Network National 720P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14068.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC Network National 720P</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Arizona) 1080P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14070.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Arizona) 1080P</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Arizona) 720P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14069.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Arizona) 720P</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Bay Area) 1080P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14072.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Bay Area) 1080P</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Bay Area) 720P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14071.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Bay Area) 720P</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Encore)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14078.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Encore)</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Los Angeles) 720P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14073.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Los Angeles) 720P</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Oregon) 1080P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14075.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Oregon) 1080P</link> 
+        </item> 
+          <item> 
+            <title>USA: TBN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9542.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TBN</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Washington) 1080P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14077.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Washington) 1080P</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Washington) 720P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14076.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Washington) 720P</link> 
+        </item> 
+          <item> 
+            <title>USA: PAC-12 Net. (Oregon) 720P</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14074.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: PAC-12 Net. (Oregon) 720P</link> 
+        </item> 
+          <item> 
+            <title>USA: Star Z Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9832.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Star Z Cinema</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC XTRA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14061.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC XTRA 3</link> 
+        </item> 
+          <item> 
+            <title>USA: NBC XTRA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/14064.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NBC XTRA 1</link> 
+        </item> 
+          <item> 
+            <title>USA: TBS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8685.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TBS HD</link> 
+        </item> 
+          <item> 
+            <title>USA: The Florida Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9495.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: The Florida Channel</link> 
+        </item> 
+          <item> 
+            <title>USA: Travel Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9476.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Travel Channel HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tru TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9330.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tru TV HD</link> 
+        </item> 
+          <item> 
+            <title>USA: USA Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9329.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: USA Network HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Willow HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9328.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Willow HD</link> 
+        </item> 
+          <item> 
+            <title>USA: WWE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9530.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WWE</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8293.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8292.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8291.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn Sport 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8290.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 4 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn-Sport 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8289.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn-Sport 5 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: Tsn Sport 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/12547.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Tsn Sport 5 HD</link> 
+        </item> 
+          <item> 
+            <title>USA: WWE Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/8410.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WWE Network</link> 
+        </item> 
+          <item> 
+            <title>USA: UALR TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/3865.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: UALR TV</link> 
+        </item> 
+          <item> 
+            <title>USA: Yes Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15242.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Yes Network</link> 
+        </item> 
+          <item> 
+            <title>USA: Teletoon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/15251.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: Teletoon</link> 
+        </item> 
+          <item> 
+            <title>USA: WHDH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/9491.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: WHDH</link> 
+        </item> 
+  
