@@ -1,0 +1,651 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+ <streamingInfos>
+ 
+          <item> 
+            <title>CTH_Astro 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/1275.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH_Astro 1</link> 
+        </item> 
+          <item> 
+            <title>CTH_Astro 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2053.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH_Astro 2</link> 
+        </item> 
+          <item> 
+            <title>CTH_Astro 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2052.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH_Astro 3</link> 
+        </item> 
+          <item> 
+            <title>CTH_Astro 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2051.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTH_Astro 4</link> 
+        </item> 
+          <item> 
+            <title>TR-LIGTV_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3398.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-LIGTV_1_HD</link> 
+        </item> 
+          <item> 
+            <title>TR-LIGTV_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3399.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-LIGTV_2_HD</link> 
+        </item> 
+          <item> 
+            <title>TR-LIGTV_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3400.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-LIGTV_3_HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-LIGTV_4HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3565.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-LIGTV_4HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-Tivibuspor_HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Tivibuspor_HD1</link> 
+        </item> 
+          <item> 
+            <title>Tr-Tivibuspor_HD2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3527.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Tivibuspor_HD2</link> 
+        </item> 
+          <item> 
+            <title>Tr-Tivibuspor_HD3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Tivibuspor_HD3</link> 
+        </item> 
+          <item> 
+            <title>Tr-Tivibuspor_HD4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Tivibuspor_HD4</link> 
+        </item> 
+          <item> 
+            <title>TR-NTVSPOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3378.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-NTVSPOR</link> 
+        </item> 
+          <item> 
+            <title>TR-A_SPOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3394.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-A_SPOR</link> 
+        </item> 
+          <item> 
+            <title>TRT_SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3347.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRT_SPORTS</link> 
+        </item> 
+          <item> 
+            <title>Tr-Eurosport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3566.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Eurosport1</link> 
+        </item> 
+          <item> 
+            <title>Tr-Eurosport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Eurosport2</link> 
+        </item> 
+          <item> 
+            <title>TR-KANAL_D</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3382.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-KANAL_D</link> 
+        </item> 
+          <item> 
+            <title>TR-Star_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3368.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-Star_tv</link> 
+        </item> 
+          <item> 
+            <title>TR-ATV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3393.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-ATV</link> 
+        </item> 
+          <item> 
+            <title>TR-TV8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3350.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TV8</link> 
+        </item> 
+          <item> 
+            <title>Tr-LOCA_1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-LOCA_1HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-LOCA_2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3531.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-LOCA_2HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-LOCA_3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3532.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-LOCA_3HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-Salon1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3533.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Salon1</link> 
+        </item> 
+          <item> 
+            <title>Tr-Salon2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3534.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Salon2</link> 
+        </item> 
+          <item> 
+            <title>Tr-Salon3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3535.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Salon3</link> 
+        </item> 
+          <item> 
+            <title>TR-MEKKE_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3359.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-MEKKE_TV</link> 
+        </item> 
+          <item> 
+            <title>Tr-Cartoon_Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Cartoon_Network</link> 
+        </item> 
+          <item> 
+            <title>Tr-Minika_Cocuk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3548.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Minika_Cocuk</link> 
+        </item> 
+          <item> 
+            <title>Tr-Minika_Go</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3547.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Minika_Go</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviemax_Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3536.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviemax_Family</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviemax_Festival</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3539.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviemax_Festival</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviemax_Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviemax_Premiere</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviemax_Stars</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3537.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviemax_Stars</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviesmart_Action_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviesmart_Action_HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviesmart_PLATIN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviesmart_PLATIN</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviesmart_Famliy_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviesmart_Famliy_HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviesmart_Fest_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviesmart_Fest_HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviesmart_Gold_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviesmart_Gold_HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-BEIN MOVIES(oscars)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-BEIN MOVIES(oscars)</link> 
+        </item> 
+          <item> 
+            <title>Tr-BEIN_MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-BEIN_MOVIES</link> 
+        </item> 
+          <item> 
+            <title>Tr-Moviesmart_Turk_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3555.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Moviesmart_Turk_HD</link> 
+        </item> 
+          <item> 
+            <title>Tr-Planet_Pembe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3545.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Planet_Pembe</link> 
+        </item> 
+          <item> 
+            <title>Tr-Planet_Turk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3544.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tr-Planet_Turk</link> 
+        </item> 
+          <item> 
+            <title>TRT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2586.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRT1</link> 
+        </item> 
+          <item> 
+            <title>TRT_COCUK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2588.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRT_COCUK</link> 
+        </item> 
+          <item> 
+            <title>TR-TRT_ARAP??A</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3361.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TRT_ARAP??A</link> 
+        </item> 
+          <item> 
+            <title>TR-CNN_TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3360.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-CNN_TURK</link> 
+        </item> 
+          <item> 
+            <title>TR-BLOOMBERG_HT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3389.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-BLOOMBERG_HT</link> 
+        </item> 
+          <item> 
+            <title>TR-360_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3396.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-360_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-Ulusal_Kanal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3397.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-Ulusal_Kanal</link> 
+        </item> 
+          <item> 
+            <title>TR-YABAN_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3374.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-YABAN_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-ULKE TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3373.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-ULKE TV HD</link> 
+        </item> 
+          <item> 
+            <title>TR-ULUSAL_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2587.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-ULUSAL_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-TV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3349.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TV2</link> 
+        </item> 
+          <item> 
+            <title>TR-tv52</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3363.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-tv52</link> 
+        </item> 
+          <item> 
+            <title>TR-TV41</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3376.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TV41</link> 
+        </item> 
+          <item> 
+            <title>TR-TV10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3377.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TV10</link> 
+        </item> 
+          <item> 
+            <title>TR-TV_2000</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3364.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TV_2000</link> 
+        </item> 
+          <item> 
+            <title>TR-Sun_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3365.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-Sun_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-SHOWTuRK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3367.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-SHOWTuRK</link> 
+        </item> 
+          <item> 
+            <title>TR-SHOWMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2584.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-SHOWMAX</link> 
+        </item> 
+          <item> 
+            <title>TR-SEMERKANT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3369.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-SEMERKANT_HD</link> 
+        </item> 
+          <item> 
+            <title>TR-SEMERKAND_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3362.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-SEMERKAND_HD</link> 
+        </item> 
+          <item> 
+            <title>TR-POWER_TuRK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3370.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-POWER_TuRK</link> 
+        </item> 
+          <item> 
+            <title>TR-PLANET TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3371.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-PLANET TURK</link> 
+        </item> 
+          <item> 
+            <title>TR-NTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3372.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-NTV</link> 
+        </item> 
+          <item> 
+            <title>TR-TEVE2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3380.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TEVE2</link> 
+        </item> 
+          <item> 
+            <title>TR-KRAL_POP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3381.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-KRAL_POP</link> 
+        </item> 
+          <item> 
+            <title>TR-KAPADOKYA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3385.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-KAPADOKYA</link> 
+        </item> 
+          <item> 
+            <title>TR-KANAL7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3383.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-KANAL7</link> 
+        </item> 
+          <item> 
+            <title>TR-KANAL_V</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3379.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-KANAL_V</link> 
+        </item> 
+          <item> 
+            <title>TR-TRT_turk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3386.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TRT_turk</link> 
+        </item> 
+          <item> 
+            <title>TR-HABER_TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3387.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-HABER_TURK</link> 
+        </item> 
+          <item> 
+            <title>TR-FOX TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3375.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-FOX TV</link> 
+        </item> 
+          <item> 
+            <title>TR-DREAM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3366.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-DREAM_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-DOST_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3384.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-DOST_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-CAY_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3388.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-CAY_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-BEYAZ_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3390.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-BEYAZ_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-BEYAZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3392.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-BEYAZ</link> 
+        </item> 
+          <item> 
+            <title>TR-BENGU_TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3391.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-BENGU_TURK</link> 
+        </item> 
+          <item> 
+            <title>TR-A_HABER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3395.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-A_HABER</link> 
+        </item> 
+          <item> 
+            <title>TR-AKSU_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3357.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-AKSU_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-SIVAS_SRT_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3358.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-SIVAS_SRT_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-TJK_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3348.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TJK_TV</link> 
+        </item> 
+          <item> 
+            <title>TRT_HABER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3346.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRT_HABER</link> 
+        </item> 
+          <item> 
+            <title>TR-TVNET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3351.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-TVNET</link> 
+        </item> 
+          <item> 
+            <title>TR-ULKE_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3352.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-ULKE_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-FLASH_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-FLASH_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-FB_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3355.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-FB_TV</link> 
+        </item> 
+          <item> 
+            <title>TR-MTV_music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3354.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-MTV_music</link> 
+        </item> 
+          <item> 
+            <title>TR-HALK_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3353.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR-HALK_TV</link> 
+        </item> 
+          <item> 
+            <title>=======  TURKEY  =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13702.ts&amp;streamtype=TSDOWNLOADER&amp;name========  TURKEY  =======</link> 
+        </item> 
+          <item> 
+            <title>TR: TV8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13658.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TV8 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: TV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13656.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TV2</link> 
+        </item> 
+          <item> 
+            <title>TR: TRT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13667.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TRT1</link> 
+        </item> 
+          <item> 
+            <title>TR: TRT TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13668.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TRT TURK</link> 
+        </item> 
+          <item> 
+            <title>TR: TRT SPOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13697.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TRT SPOR</link> 
+        </item> 
+          <item> 
+            <title>TR: TRT Okul</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13670.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TRT Okul</link> 
+        </item> 
+          <item> 
+            <title>TR: TRT Muzik</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13671.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TRT Muzik</link> 
+        </item> 
+          <item> 
+            <title>TR: TRT Haber</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13669.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TRT Haber</link> 
+        </item> 
+          <item> 
+            <title>TR: TRT Diyanet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13672.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TRT Diyanet</link> 
+        </item> 
+          <item> 
+            <title>TR: TRT Cocuk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13673.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TRT Cocuk</link> 
+        </item> 
+          <item> 
+            <title>TR: TRT BELGESEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13674.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TRT BELGESEL</link> 
+        </item> 
+          <item> 
+            <title>TR: TIVIBU SPOR 2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13637.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TIVIBU SPOR 2HD</link> 
+        </item> 
+          <item> 
+            <title>TR: TIVIBU SPOR 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13636.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: TIVIBU SPOR 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: STAR TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13660.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: STAR TV</link> 
+        </item> 
+          <item> 
+            <title>TR: SPORTS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13695.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: SPORTS TV</link> 
+        </item> 
+          <item> 
+            <title>TR: SINEMATV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13693.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: SINEMATV</link> 
+        </item> 
+          <item> 
+            <title>TR: SINEMA2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13694.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: SINEMA2</link> 
+        </item> 
+          <item> 
+            <title>TR: SHOW TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13661.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: SHOW TV</link> 
+        </item> 
+          <item> 
+            <title>TR: SHOW MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13638.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: SHOW MAX</link> 
+        </item> 
+          <item> 
+            <title>TR: SANSAR ÃœLKE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13680.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: SANSAR ÃœLKE TV</link> 
+        </item> 
+          <item> 
+            <title>TR: SALON 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13692.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: SALON 3 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: SALON 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13691.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: SALON 2 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: SALON 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13690.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: SALON 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: POWER Turk HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13662.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: POWER Turk HD</link> 
+        </item> 
+          <item> 
+            <title>TR: PLANET TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13685.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: PLANET TURK</link> 
+        </item> 
+          <item> 
+            <title>TR: PLANET MUFTAK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13686.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: PLANET MUFTAK</link> 
+        </item> 
+          <item> 
+            <title>TR: PLANET COCUK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13687.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: PLANET COCUK</link> 
+        </item> 
+          <item> 
+            <title>TR: NTV SPOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13698.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: NTV SPOR</link> 
+        </item> 
+          <item> 
+            <title>TR: NTV AVRUPA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13639.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: NTV AVRUPA</link> 
+        </item> 
+          <item> 
+            <title>TR: MovieSmart Turk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13640.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: MovieSmart Turk</link> 
+        </item> 
+          <item> 
+            <title>TR: Movie Smart  Gold HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13641.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: Movie Smart  Gold HD</link> 
+        </item> 
+          <item> 
+            <title>TR: MOVIEMAX FESTIVAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13642.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: MOVIEMAX FESTIVAL HD</link> 
+        </item> 
+          <item> 
+            <title>TR: MOVIEMAX FAMILY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13643.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: MOVIEMAX FAMILY HD</link> 
+        </item> 
+          <item> 
+            <title>TR: MOVIEMAX ACTION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13644.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: MOVIEMAX ACTION HD</link> 
+        </item> 
+          <item> 
+            <title>TR: MINIKAGO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13682.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: MINIKAGO</link> 
+        </item> 
+          <item> 
+            <title>TR: LOCA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13689.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: LOCA 2</link> 
+        </item> 
+          <item> 
+            <title>TR: LOCA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13688.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: LOCA 1</link> 
+        </item> 
+          <item> 
+            <title>TR: LIG TV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13721.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: LIG TV 4 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: LIG TV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13701.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: LIG TV 3 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: LIG TV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13700.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: LIG TV 2 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: LIG TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13699.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: LIG TV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TR: KANAL D</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13655.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: KANAL D</link> 
+        </item> 
+          <item> 
+            <title>TR: KANAL 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13654.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: KANAL 7</link> 
+        </item> 
+          <item> 
+            <title>TR: ISTANBUL TV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13645.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: ISTANBUL TV1</link> 
+        </item> 
+          <item> 
+            <title>TR: HALK TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13650.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: HALK TV</link> 
+        </item> 
+          <item> 
+            <title>TR: GS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13646.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: GS</link> 
+        </item> 
+          <item> 
+            <title>TR: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13653.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>TR: FLASH TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13665.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: FLASH TV</link> 
+        </item> 
+          <item> 
+            <title>TR: FILTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13678.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: FILTV</link> 
+        </item> 
+          <item> 
+            <title>TR: FENERBAHCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13647.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: FENERBAHCE</link> 
+        </item> 
+          <item> 
+            <title>TR: FANATIKTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13675.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: FANATIKTV</link> 
+        </item> 
+          <item> 
+            <title>TR: EURO STAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13648.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: EURO STAR</link> 
+        </item> 
+          <item> 
+            <title>TR: EURO D</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13649.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: EURO D</link> 
+        </item> 
+          <item> 
+            <title>TR: DREAM TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13681.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: DREAM TURK</link> 
+        </item> 
+          <item> 
+            <title>TR: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13683.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>TR: DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13679.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>TR: CNN TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13652.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: CNN TURK</link> 
+        </item> 
+          <item> 
+            <title>TR: CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13684.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>TR: BEYAZ TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13676.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: BEYAZ TV</link> 
+        </item> 
+          <item> 
+            <title>TR: BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13663.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: BABY TV</link> 
+        </item> 
+          <item> 
+            <title>TR: ATV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13657.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: ATV</link> 
+        </item> 
+          <item> 
+            <title>TR: ANIMAL PLANET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13677.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: ANIMAL PLANET</link> 
+        </item> 
+          <item> 
+            <title>TR: A SPOR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13696.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: A SPOR HD</link> 
+        </item> 
+          <item> 
+            <title>TR: A HABER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13666.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: A HABER</link> 
+        </item> 
+          <item> 
+            <title>TR: 360</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13664.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: 360</link> 
+        </item> 
+          <item> 
+            <title>TR: 24TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13659.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: 24TV</link> 
+        </item> 
+          <item> 
+            <title>TR:  MovieMax Premier HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/13651.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:  MovieMax Premier HD</link> 
+        </item> 
+  
